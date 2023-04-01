@@ -1,0 +1,12 @@
+.card-div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin:0px auto;
+    flex-basis: auto;
+    padding:0px 190px;
+}
+.card-container{
+    margin: 20px auto;
+    
+}

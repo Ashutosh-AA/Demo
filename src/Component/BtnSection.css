@@ -1,0 +1,12 @@
+.btn-container{
+    width: 300px;
+    margin: 30px auto;
+   
+}
+.btn-custom{
+    border: 1px solid black;
+}
+.btn-custom:hover{
+    background-color:black ;
+    color: white;
+}

@@ -1,0 +1,23 @@
+.img-class {
+    height: 200px;
+    width: 200px;
+}
+
+.img-main {
+    object-fit: cover;
+}
+
+.main-div {
+    height: 400px;
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.col-content {
+    height: 200px;
+    width: 200px;
+    text-align: start;
+    margin-top: 50px;
+}
